@@ -5,5 +5,5 @@ Computer Engineering
 
 2023 - 2024 Fall Term
 
-Data Structure 
+Data Structures 
 Assignments
